@@ -1,0 +1,7 @@
+i3xrocks.label.color:       base09 
+i3xrocks.value.color:       base04
+i3xrocks.value.font:        typeface_bar_glyph
+i3xrocks.critical.color:    base0C
+i3xrocks.error.color:       base0D
+i3xrocks.warning:           base0E
+i3xrocks.nominal:           base0F
