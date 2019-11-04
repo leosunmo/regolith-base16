@@ -1,22 +1,23 @@
 ! Base16 Nord
 ! Scheme: arcticicestudio
+! Color details and descriptions at https://www.nordtheme.com/docs/colors-and-palettes
 
-#define base00 #2e3440
-#define base01 #3b4252
-#define base02 #434c5e
-#define base03 #4c566a
-#define base04 #d8dee9
-#define base05 #e5e9f0
-#define base06 #eceff4
-#define base07 #8fbcbb
-#define base08 #88c0d0
-#define base09 #81a1c1
-#define base0A #5e81ac
-#define base0B #bf616a
-#define base0C #d08770
-#define base0D #ebcb8b
-#define base0E #a3be8c
-#define base0F #b48ead
+#define base00 #2e3440 ! nord0
+#define base01 #3b4252 ! nord1
+#define base02 #434c5e ! nord2
+#define base03 #4c566a ! nord3
+#define base04 #d8dee9 ! nord4
+#define base05 #e5e9f0 ! nord5
+#define base06 #eceff4 ! nord6
+#define base07 #8fbcbb ! nord7
+#define base08 #88c0d0 ! nord8
+#define base09 #81a1c1 ! nord9
+#define base0A #5e81ac ! nord10
+#define base0B #bf616a ! nord11
+#define base0C #d08770 ! nord12
+#define base0D #ebcb8b ! nord13
+#define base0E #a3be8c ! nord14
+#define base0F #b48ead ! nord15
 
 *foreground:   base05
 #ifdef background_opacity
