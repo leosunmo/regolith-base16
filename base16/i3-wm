@@ -28,7 +28,7 @@ i3-wm.client.focused.color.border: base00
 i3-wm.client.focused.color.background: base02
 i3-wm.client.focused.color.text: base07
 i3-wm.client.focused.color.indicator: base0D
-i3-wm.client.focused.color.child_border: base0C
+i3-wm.client.focused.color.child_border:
 
 i3-wm.client.focused_inactive.color.border: base00
 i3-wm.client.focused_inactive.color.background: base01
@@ -53,8 +53,8 @@ i3-wm.client.urgent.color.child_border: base08
 #define WORKSPACE_NAME(INDEX, FONT, COLOR, GLYPH) INDEX:<span font_desc=FONT> INDEX </span><span foreground=COLOR>GLYPH</span>
 ! base00, base01 base02 and base03 match the bar too closely
 i3-wm.workspace.01.name: WORKSPACE_NAME(1, glyph_font, QUOTE(base04), )
-i3-wm.workspace.02.name: WORKSPACE_NAME(2, glyph_font, QUOTE(base08), )
-i3-wm.workspace.03.name: WORKSPACE_NAME(3, glyph_font, QUOTE(base09), )
+i3-wm.workspace.02.name: WORKSPACE_NAME(2, glyph_font, QUOTE(base0D), )
+i3-wm.workspace.03.name: WORKSPACE_NAME(3, glyph_font, QUOTE(base0E), )
 i3-wm.workspace.04.name: WORKSPACE_NAME(4, glyph_font, QUOTE(base0A), )
 i3-wm.workspace.05.name: WORKSPACE_NAME(5, glyph_font, QUOTE(base0B), )
 i3-wm.workspace.06.name: WORKSPACE_NAME(6, glyph_font, QUOTE(base0C), )
